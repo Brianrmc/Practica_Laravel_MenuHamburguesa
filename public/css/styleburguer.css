@@ -1,0 +1,14 @@
+/* styleburguer.css */
+.navbar .navbar-brand {
+    color: #790404;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+    color: #b48215;
+}
+
+.navbar .dropdown-menu .dropdown-item:hover {
+    background-color: #555;
+    color: #f0a500;
+}
